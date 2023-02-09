@@ -1,3 +1,5 @@
+# PKG WITH NO CPU-FEATURES(pkg) FOR INCOMPABILITIES
+
 # Description
 
 SSH2 client and server modules written in pure JavaScript for [node.js](http://nodejs.org/).
